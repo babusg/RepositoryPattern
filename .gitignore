@@ -2,6 +2,7 @@ node_modules
 packages
 typings
 /**/bin/*
+/**/obj/*
 .vscode/
 
 

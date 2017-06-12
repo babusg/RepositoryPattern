@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ORM\DBEntity.cs" />
-    <Compile Include="ORM\Deptartment.cs" />
+    <Compile Include="ORM\Department.cs" />
     <Compile Include="ORM\Employee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

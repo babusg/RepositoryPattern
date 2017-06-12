@@ -11,7 +11,7 @@ using System.IO;
 using GB.Code.RepositoryPattern.Contracts;
 using GB.Code.RepositoryPattern.ORM;
 
-namespace DerivsCollatMgmt.IL.Repositories.Implementations
+namespace GB.Code.RepositoryPattern.Repositories
 {
     public abstract class RepositoryBase<T> : IRepositoryBase<T>//, IDisposable
         where T : class, new()

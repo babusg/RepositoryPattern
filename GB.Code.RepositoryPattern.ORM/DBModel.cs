@@ -14,11 +14,12 @@ namespace GB.Code.RepositoryPattern.ORM
 
         public virtual DbSet<Employee> Employees { get; set; }
 
-        public virtual DbSet<Deptartment> Departments { get; set; }
+        public virtual DbSet<Department> Departments { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             EmployeeMap.Map(modelBuilder);
+            DepartmentMap.Map(modelBuilder);
         }
     }
 }

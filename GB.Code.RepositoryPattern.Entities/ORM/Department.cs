@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace GB.Code.RepositoryPattern.Entities.ORM
 {
-    public partial class Deptartment
+    public partial class Department
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

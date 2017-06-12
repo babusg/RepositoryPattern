@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DBModel.cs" />
+    <Compile Include="Map\DepartmentMap.cs" />
     <Compile Include="Map\EmployeeMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,5 @@
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Entities\obj\Debug\GB.Code.RepositoryPattern.Entities.csprojResolveAssemblyReference.cache
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Entities\bin\Debug\GB.Code.RepositoryPattern.Entities.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Entities\bin\Debug\GB.Code.RepositoryPattern.Entities.pdb
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Entities\obj\Debug\GB.Code.RepositoryPattern.Entities.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Entities\obj\Debug\GB.Code.RepositoryPattern.Entities.pdb

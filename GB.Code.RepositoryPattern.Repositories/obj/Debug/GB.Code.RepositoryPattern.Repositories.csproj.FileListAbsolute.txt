@@ -1,0 +1,16 @@
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\GB.Code.RepositoryPattern.Repositories.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\GB.Code.RepositoryPattern.Repositories.pdb
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\obj\Debug\GB.Code.RepositoryPattern.Repositories.csprojResolveAssemblyReference.cache
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\obj\Debug\GB.Code.RepositoryPattern.Repositories.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\obj\Debug\GB.Code.RepositoryPattern.Repositories.pdb
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\GB.Code.RepositoryPattern.Repositories.dll.config
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\EntityFramework.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\GB.Code.RepositoryPattern.Contracts.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\GB.Code.RepositoryPattern.Entities.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\GB.Code.RepositoryPattern.ORM.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\GB.Code.RepositoryPattern.Contracts.pdb
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\GB.Code.RepositoryPattern.Entities.pdb
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\GB.Code.RepositoryPattern.ORM.pdb
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\EntityFramework.xml
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Repositories\bin\Debug\EntityFramework.SqlServer.xml

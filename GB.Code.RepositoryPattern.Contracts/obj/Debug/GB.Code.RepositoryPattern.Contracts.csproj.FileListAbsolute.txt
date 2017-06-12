@@ -1,0 +1,7 @@
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Contracts\bin\Debug\GB.Code.RepositoryPattern.Contracts.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Contracts\bin\Debug\GB.Code.RepositoryPattern.Contracts.pdb
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Contracts\obj\Debug\GB.Code.RepositoryPattern.Contracts.csprojResolveAssemblyReference.cache
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Contracts\obj\Debug\GB.Code.RepositoryPattern.Contracts.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Contracts\obj\Debug\GB.Code.RepositoryPattern.Contracts.pdb
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Contracts\bin\Debug\GB.Code.RepositoryPattern.Entities.dll
+C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Contracts\bin\Debug\GB.Code.RepositoryPattern.Entities.pdb

@@ -1,5 +1,0 @@
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Fake\bin\Debug\GB.Code.RepositoryPattern.Fake.dll
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Fake\bin\Debug\GB.Code.RepositoryPattern.Fake.pdb
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Fake\obj\Debug\GB.Code.RepositoryPattern.Fake.csprojResolveAssemblyReference.cache
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Fake\obj\Debug\GB.Code.RepositoryPattern.Fake.dll
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.Fake\obj\Debug\GB.Code.RepositoryPattern.Fake.pdb

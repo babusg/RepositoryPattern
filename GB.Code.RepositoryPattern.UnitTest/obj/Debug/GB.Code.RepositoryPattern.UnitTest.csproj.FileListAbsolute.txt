@@ -1,7 +1,0 @@
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.UnitTest\bin\Debug\GB.Code.RepositoryPattern.UnitTest.dll
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.UnitTest\bin\Debug\GB.Code.RepositoryPattern.UnitTest.pdb
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.UnitTest\obj\Debug\GB.Code.RepositoryPattern.UnitTest.csprojResolveAssemblyReference.cache
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.UnitTest\obj\Debug\GB.Code.RepositoryPattern.UnitTest.dll
-C:\GB\Code\RepositoryPattern\GB.Code.RepositoryPattern.UnitTest\obj\Debug\GB.Code.RepositoryPattern.UnitTest.pdb

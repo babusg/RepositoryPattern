@@ -21,5 +21,6 @@ namespace GB.Code.RepositoryPattern.ORM
             EmployeeMap.Map(modelBuilder);
             DepartmentMap.Map(modelBuilder);
         }
+
     }
 }

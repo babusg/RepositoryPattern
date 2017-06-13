@@ -4,5 +4,6 @@ typings
 /**/bin/*
 /**/obj/*
 .vscode/
+*.user
 
 

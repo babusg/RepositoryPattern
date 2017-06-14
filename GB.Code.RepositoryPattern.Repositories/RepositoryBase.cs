@@ -8,7 +8,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-using GB.Code.RepositoryPattern.Contracts;
+using GB.Code.RepositoryPattern.Contracts.Repositories;
 using GB.Code.RepositoryPattern.ORM;
 
 namespace GB.Code.RepositoryPattern.Repositories

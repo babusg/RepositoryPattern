@@ -10,7 +10,7 @@ namespace GB.Code.RepositoryPattern.ORM
 {
     public partial class DBModel : DbContext 
     {
-        public DBModel() : base("name=DBModel") { }
+        public DBModel() : base("name=PlayModel") { }
 
         public virtual DbSet<Employee> Employees { get; set; }
 

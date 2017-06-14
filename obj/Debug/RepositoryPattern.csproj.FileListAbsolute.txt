@@ -1,5 +1,0 @@
-C:\GB\Code\RepositoryPattern\bin\Debug\GB.Code.RepositoryPattern.dll
-C:\GB\Code\RepositoryPattern\bin\Debug\GB.Code.RepositoryPattern.pdb
-C:\GB\Code\RepositoryPattern\obj\Debug\RepositoryPattern.csprojResolveAssemblyReference.cache
-C:\GB\Code\RepositoryPattern\obj\Debug\GB.Code.RepositoryPattern.dll
-C:\GB\Code\RepositoryPattern\obj\Debug\GB.Code.RepositoryPattern.pdb

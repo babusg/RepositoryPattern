@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB.Code.RepositoryPattern.Entities", "GB.Code.RepositoryPattern.Entities\GB.Code.RepositoryPattern.Entities.csproj", "{91B6AC44-C54C-4E0B-B739-622BCAB3E9BD}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB.Code.RepositoryPattern.UnitTest", "GB.Code.RepositoryPattern.UnitTest\GB.Code.RepositoryPattern.UnitTest.csproj", "{3ADAE760-CBD9-44CA-B01A-E4DEDD81E616}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB.Code.RepositoryPattern.ConsoleApp", "GB.Code.RepositoryPattern.ConsoleApp\GB.Code.RepositoryPattern.ConsoleApp.csproj", "{60D6B5DF-575A-4801-A062-E986FC89210A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB.Code.RepositoryPattern.Managers", "GB.Code.RepositoryPattern.Managers\GB.Code.RepositoryPattern.Managers.csproj", "{85A31770-CB63-4EE4-9249-294CC9837C46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{60D6B5DF-575A-4801-A062-E986FC89210A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60D6B5DF-575A-4801-A062-E986FC89210A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60D6B5DF-575A-4801-A062-E986FC89210A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A31770-CB63-4EE4-9249-294CC9837C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A31770-CB63-4EE4-9249-294CC9837C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A31770-CB63-4EE4-9249-294CC9837C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A31770-CB63-4EE4-9249-294CC9837C46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

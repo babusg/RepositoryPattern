@@ -50,8 +50,26 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="EmployeeManagerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GB.Code.RepositoryPattern.Contracts\GB.Code.RepositoryPattern.Contracts.csproj">
+      <Project>{c5105c9a-e222-46f8-b34d-0fd452bf586d}</Project>
+      <Name>GB.Code.RepositoryPattern.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GB.Code.RepositoryPattern.Entities\GB.Code.RepositoryPattern.Entities.csproj">
+      <Project>{91b6ac44-c54c-4e0b-b739-622bcab3e9bd}</Project>
+      <Name>GB.Code.RepositoryPattern.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GB.Code.RepositoryPattern.Fake\GB.Code.RepositoryPattern.Fake.csproj">
+      <Project>{1e7deb98-4f53-4da4-a162-a5493fa5ebea}</Project>
+      <Name>GB.Code.RepositoryPattern.Fake</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GB.Code.RepositoryPattern.Managers\GB.Code.RepositoryPattern.Managers.csproj">
+      <Project>{85a31770-cb63-4ee4-9249-294cc9837c46}</Project>
+      <Name>GB.Code.RepositoryPattern.Managers</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

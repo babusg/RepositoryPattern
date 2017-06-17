@@ -12,7 +12,7 @@ namespace GB.Code.RepositoryPattern.Entities.ORM
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int? DeptId { get; set; }
+        public int DeptId { get; set; }
 
         [Required]
         public string DeptName { get; set; }

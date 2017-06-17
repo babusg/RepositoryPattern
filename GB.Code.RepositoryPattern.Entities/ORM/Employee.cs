@@ -25,5 +25,8 @@ namespace GB.Code.RepositoryPattern.Entities.ORM
         [Required]
         public int? DeptId { get; set; }
 
+        public Department Department { get; set; }
+
+
     }
 }

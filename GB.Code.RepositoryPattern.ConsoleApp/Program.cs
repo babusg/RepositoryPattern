@@ -21,7 +21,9 @@ namespace GB.Code.RepositoryPattern.ConsoleApp
                 {
                     db.DepartmentRepository.Add(new Department { DeptName = "HR" });
                     db.DepartmentRepository.Add(new Department { DeptName = "R & D" });
-                    db.SaveChanges();
+                    var returnvalue= db.SaveChanges();
+                    Console.WriteLine(returnvalue);
+                    Console.ReadLine();
                 }
             }
             catch(Exception ex)
